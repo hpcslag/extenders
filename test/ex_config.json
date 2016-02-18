@@ -1,0 +1,9 @@
+{
+	"manifest":"helloworld",
+	"ex_plugins":[
+		{
+			"app_name":"bonnunit",
+			"app_config":""
+		}
+	]
+}

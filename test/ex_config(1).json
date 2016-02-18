@@ -1,0 +1,9 @@
+{
+	"manifest":"server4extenders",
+	"ex_plugins":[
+		{
+			"app_name":"file-viewer",
+			"app_config":"file-viewer.json"
+		}
+	]
+}
